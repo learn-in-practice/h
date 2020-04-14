@@ -1,2 +1,1 @@
-print new
-hi
+222222
