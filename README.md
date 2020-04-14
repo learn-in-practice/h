@@ -11,7 +11,7 @@
    <!--3.主要内容-->  
    <body>  
 <div>  
-    Hi1\\\\
+    Hi, this is a man.
 </div>
       <a href=http://192.168.1.102/2.html>去别的网页</a>
 
