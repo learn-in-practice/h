@@ -11,7 +11,7 @@
    <!--3.主要内容-->  
    <body>  
 <div>  
-    我是被链接的 
+    我是被链接的hello world 
 </div>
       <a href=http://192.168.1.102/2.html>去别的网页</a>
 
